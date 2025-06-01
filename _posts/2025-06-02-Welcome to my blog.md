@@ -1,4 +1,4 @@
 ---
-title: "ようこそ私のブログへ"
-date: "2025^06^02"
+title: "Welcome to my blog"
+date: 2025-06-02
 ---
