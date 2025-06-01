@@ -7,4 +7,3 @@
 - IT技術の勉強
 - 自作ゲーム開発
 
-![アイコン画像](https://example.com/image.jpg)
